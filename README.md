@@ -185,6 +185,6 @@ The project was scoped using a formal **Business Requirement Document (BRD)** wh
 
 ## 👤 Author
 
-**[Your Name]**  
+**Simran Thakur**  
 Aspiring Data Analyst | Power BI · Power Query · SQL · Data Storytelling  
-[LinkedIn](#) · [Portfolio](#)
+
