@@ -182,9 +182,8 @@ The project was scoped using a formal **Business Requirement Document (BRD)** wh
 - Deriving **actionable business insights** from descriptive analytics
 
 ---
+## ⭐ If You Like This Project
 
-## 👤 Author
-
-**Simran Thakur**  
-Cisco Technical Professional | Power BI · Power Query · SQL · Data Storytelling  
+- Star ⭐ the repo  
+- Let’s connect and discuss data, reporting, and business insights
 
